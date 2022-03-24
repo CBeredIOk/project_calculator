@@ -1,1 +1,1 @@
-add_executable(Project SLAE.cpp)
+add_executable(Integral Integral.cpp Integration.h)
